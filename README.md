@@ -1,16 +1,26 @@
-### Hi there 👋
+### Добрый день!
 
-<!--
-**psvitov/psvitov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут <b>Павел Свитов</b>, я - DevOps-инженер.
 
-Here are some ideas to get you started:
+### Мой технический стек:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- OS Windows (Servers, Workstations)
+- OS Linux (CentOS, Ubuntu, Debian)
+- Proxmox/KVM
+- Git
+- Bash
+- Python
+- Docker & Docker Swarm & Docker Compose
+- Packer
+- Terraform & Terraform Cloud
+- Ansible
+- Jenkins & TeamCity & Gitlab CI
+- Prometheus & Grafana & Alertmanager
+- ELK
+- Zabbix
+- Kubernetes & Helm & Qbec
+- Yandex.Cloud
+
+### В чем я практикуюсь:
+
+- Docker [Домашние работы по работе с Docker](https://github.com/psvitov/psvitov/tree/main/Homeworks/Docker)
