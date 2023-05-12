@@ -24,3 +24,21 @@
 ### В чем я практикуюсь:
 
 - Docker [Домашние работы по работе с Docker](https://github.com/psvitov/psvitov/tree/main/Homeworks/Docker)
+- Terraform & Terraform Cloud
+- Ansible
+- Jenkins & TeamCity & Gitlab CI
+- Monitoring
+- Kubernetes
+
+### Мои сертификаты в Нетологии:
+
+- DevOps и системное администрирование
+- Виртуализация, базы данных и Terraform
+- CI, мониторинг и управление конфигурациями
+- Администрирование и конфигурация Kubernetes
+- Kubernetes и облачные сервисы
+
+### Моя дипломная работа в Нетологии
+
+- [Дипломный практикум](https://github.com/psvitov/devops-netology/blob/main/Diplom/diplom.md)
+- Диплом
