@@ -41,7 +41,7 @@
 ### Моя дипломная работа в Нетологии
 
 - [Дипломный практикум](https://github.com/psvitov/devops-netology/blob/main/Diplom/diplom.md)
-- [Диплом](https://github.com/psvitov/psvitov/blob/main/Documents/Diplom.pdf)
+- [Свидетельство об обучении](https://github.com/psvitov/psvitov/blob/main/Documents/Diplom.pdf)
 
 ### Мое резюме
 
