@@ -23,12 +23,12 @@
 
 ### В чем я практикуюсь:
 
-- Docker [Домашние работы по работе с Docker](https://github.com/psvitov/psvitov/tree/main/Homeworks/Docker)
-- Terraform & Terraform Cloud
-- Ansible
-- Jenkins & TeamCity & Gitlab CI
-- Monitoring
-- Kubernetes
+- Docker ([Домашние работы по работе с Docker](https://github.com/psvitov/psvitov/tree/main/Homeworks/Docker))
+- Terraform & Terraform Cloud ([Домашние работы по работе с Terraform](https://github.com/psvitov/psvitov/tree/main/Homeworks/Terraform))
+- Ansible ([Домашние работы по работе с Ansible](https://github.com/psvitov/psvitov/tree/main/Homeworks/Ansible))
+- Jenkins & TeamCity & Gitlab CI ([Домашние работы по CI/CD](https://github.com/psvitov/psvitov/tree/main/Homeworks/CI_CD))
+- Monitoring ([Домашние работы по мониторингу](https://github.com/psvitov/psvitov/tree/main/Homeworks/Monitoring))
+- Kubernetes ([Домашние работы по работе с Kubernetes](https://github.com/psvitov/psvitov/tree/main/Homeworks/K8s))
 
 ### Мои сертификаты в Нетологии:
 
