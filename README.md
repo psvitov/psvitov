@@ -23,7 +23,7 @@
 
 ### В чем я практикуюсь:
 
-- Docker ([Домашние работы по работе с Docker](https://github.com/psvitov/psvitov/tree/main/Homeworks/Docker))
+- Docker ([Домашние работы по работе с Docker](https://github.com/psvitov/psvitov/tree/main/Homeworks/Docker){target="_blank"})
 - Terraform & Terraform Cloud ([Домашние работы по работе с Terraform](https://github.com/psvitov/psvitov/tree/main/Homeworks/Terraform))
 - Ansible ([Домашние работы по работе с Ansible](https://github.com/psvitov/psvitov/tree/main/Homeworks/Ansible))
 - Jenkins & TeamCity & Gitlab CI ([Домашние работы по CI/CD](https://github.com/psvitov/psvitov/tree/main/Homeworks/CI_CD))
