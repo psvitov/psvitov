@@ -6,7 +6,7 @@
 
 - OS Windows (Servers, Workstations)
 - OS Linux (CentOS, Ubuntu, Debian)
-- Proxmox/KVM
+- Virtualisation (Proxmox, VMWare, Hyper-V)
 - Git
 - Bash
 - Python
@@ -42,3 +42,7 @@
 
 - [Дипломный практикум](https://github.com/psvitov/devops-netology/blob/main/Diplom/diplom.md)
 - [Диплом](https://github.com/psvitov/psvitov/blob/main/Documents/Diplom.pdf)
+
+### Мое резюме
+
+[CV Pavel Svitov](https://github.com/psvitov/psvitov/blob/main/Documents/CV_%20Pavel%20Svitov%20DevOps-%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80.pdf)
